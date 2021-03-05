@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000222
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བློ་སྦྱོང་ཚིགས་རྐང་བརྒྱད་མ་ལོ་རྒྱུས་དང་བཅས་པ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། དགེ་བཤེས་འཆད་ཀ་བ།
-  sku: IBA-MT-03-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-MT-03-1
 web_metadata:
   title:
     en: A Commentary to the Eight Lines of Mind Training Supplemented with the Relevant
